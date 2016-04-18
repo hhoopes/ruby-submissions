@@ -10,7 +10,7 @@
 * Chelsea Johnson:
 * David Whitaker:
 * Erinna Chen:
-* Heidi Hoopes:
+* Heidi Hoopes: https://github.com/hhoopes/module_3_diagnostic
 * Julian Feliciano:
 * July Tran:
 * Kimiko Kano:
