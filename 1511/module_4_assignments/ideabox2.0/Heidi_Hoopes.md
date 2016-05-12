@@ -22,8 +22,8 @@
 [My Commits](https://github.com/hhoopes/idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-![Filtered](images/screenshot1.png)
-![All Ideas](images/screenshot2.png)
+![Filtered](https://github.com/hhoopes/idea_box/blob/master/images/screenshot1.png)
+![All Ideas](https://github.com/hhoopes/idea_box/blob/master/images/screenshot2.png)
 
 ## Completion
 
@@ -51,10 +51,11 @@ I started off a little scared of the feature, but learned a lot about various ev
 I had to duplicate a lot of code at first because I implemented enums in the database. It meant when I called an idea's quality on the front end, I was returned the string value. I realized later that there is a method for accessing the integer, but it's not as obvious. So I could refactor it now so I can do math with the qualities a little more easily and not have to use multiple if loops to handle different contexts. 
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-![Test Suite](images/tests.png)
+![Test Suite](https://github.com/hhoopes/idea_box/blob/master/images/tests.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
-I didn't do great at this, so this is probably one of my best in this sense.
+* I didn't do great at this, so this is probably one of my best in this sense.
+
 [link](https://github.com/hhoopes/idea_box/blob/master/spec/features/visitor_sees_all_ideas_spec.rb)
 -----
 
