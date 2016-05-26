@@ -32,6 +32,7 @@ Complete this Form before the final eval. Delete this line from your version.
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 * Easy addition of new levels
+
 While this was a pattern we saw used elsewhere, level creation required customizing for our own needs. It allows all required elements to be created in a easily repeatable pattern.
 [Link](https://github.com/brennanholtzclaw/game_time/tree/master/lib/levels)
 
@@ -65,6 +66,7 @@ Declaring that many variables in the top of a file is the smelliest of code smel
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 [Link to pastebin](http://pastebin.com/KQPqpvCu)
+
 I was not able to debug this, but one file of my tests only runs when run solo, and fails as a suite. I suspect it's something to do with clean up on the tests, but wasn't able to identify it. This only represents 5 tests.
 
 ### Test Breakdown
