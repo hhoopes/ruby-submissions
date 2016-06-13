@@ -3,11 +3,11 @@
 ## Basics
 
 ### Link(s) to the PRs or Issues You Picked Up
--[#71 Compare New Relic](https://github.com/LookingForMe/lookingfor/issues/71)
--[#80 Database Load Testing](https://github.com/LookingForMe/lookingfor/pull/80)
--[#82 Capitalization for technologies](https://github.com/LookingForMe/lookingfor/issues/82)
--[#92 Endpoint for technologies](https://github.com/LookingForMe/lookingfor/issues/92)
--[#97 Add scoping by technology to recent jobs controller](https://github.com/LookingForMe/lookingfor/issues/97)
+- [#71 Compare New Relic](https://github.com/LookingForMe/lookingfor/issues/71)
+- [#80 Database Load Testing](https://github.com/LookingForMe/lookingfor/pull/80)
+- [#82 Capitalization for technologies](https://github.com/LookingForMe/lookingfor/issues/82)
+- [#92 Endpoint for technologies](https://github.com/LookingForMe/lookingfor/issues/92)
+- [#97 Add scoping by technology to recent jobs controller](https://github.com/LookingForMe/lookingfor/issues/97)
 
 ### Summarize what you worked on the last two weeks
 I started off by comparing various methods of obtaining performance data for an app and its database, and concluded in addition to keeping New Relic that we also needed a method to generate data. I created a rake task that would do this, and documented all of this. After this, I jumped into providing endpoints for the front end team, refactoring the recent_jobs index method to be able to respond to multiple scopes. I also provided a lot of QA to my teammates on both the back-end and front-end teams.
